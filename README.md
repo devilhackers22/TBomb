@@ -132,3 +132,5 @@ Feel Free To Open An Issue...
 Dont Forget To Subscribe
 
 
+# keywords ignore this
+sms bomber, bomber jacket, b2 bomber, bomber, TBomb GitHub, TBomb Termux, Bombing, Termux Bombing Tool, Bomber Github
